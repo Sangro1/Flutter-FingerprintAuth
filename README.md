@@ -1,6 +1,6 @@
 # Biometric Auth
 
-A new Flutter project.
+This flutter project has a functionality to authenticate user with biometic authentication using fingerprint auhthentication. 
 
 ## Getting Started
 
